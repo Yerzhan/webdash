@@ -2,7 +2,7 @@ baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "Hello Friend"
 theme = "hello-friend"
-copyright = ""
+Copyright = "Yerzhan Sarbassov 2018"
 paginate = 5
 
 [params]
