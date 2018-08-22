@@ -14,10 +14,17 @@ paginate = 5
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "/portfolio"
+    weight = 100
   [[menu.main]]
     identifier = "showcase"
     name = "Showcase"
     url = "/showcase"
+    weight = 200
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog"
+    weight = 300
