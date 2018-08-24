@@ -1,7 +1,7 @@
 +++
 title = "Showcase"
 date = "2018-07-18"
-author = "Hello Robot"
+author = "Yerzhan"
 +++
 
 ## Some fun experiments
