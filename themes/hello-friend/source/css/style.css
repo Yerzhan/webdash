@@ -1,3 +1,7 @@
+@import 'animate';
+@import 'icomoon';
+@import 'bootspart';
+
 @import 'variables';
 @import 'inter-ui';
 @import 'buttons';
@@ -11,3 +15,4 @@
 @import 'footer';
 
 @import 'prism';
+@import 'portfolio';
